@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Bike",
+      "image":"https://image.shutterstock.com/image-vector/bike-icon-vector-illustration-600w-1718706019.jpg",
+      "fare": 100
+    },
+    {
+      "id": 2,
+      "name": "Car",
+      "image":"https://image.shutterstock.com/image-vector/isometric-3d-car-vector-illustration-600w-370736819.jpg",
+      "fare": 200
+    },
+    {
+      "id": 3,
+      "name": "Bus",
+      "image":"https://image.shutterstock.com/image-vector/bus-vector-illustration-600w-1718702944.jpg",
+      "fare": 300
+    },
+    {
+      "id": 4,
+      "name": "Train",
+      "image":"https://image.shutterstock.com/image-photo/commuter-train-coming-out-white-600w-214028590.jpg",
+      "fare": 400
+    }
+  ]
